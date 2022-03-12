@@ -1,4 +1,4 @@
-AuthUserFile /.htpasswd
+AuthUserFile https://raw.githubusercontent.com/CoderableOfficial/codeencrypt/main/.htpasswd
 AuthType Basic
 AuthName "CodeSecure"
 Require valid-user
